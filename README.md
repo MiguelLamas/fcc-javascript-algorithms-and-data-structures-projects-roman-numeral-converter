@@ -5,7 +5,7 @@ JavaScript Algorithms and Data Structures Projects
 Roman Numeral Converter
 Convert the given number into a roman numeral.
 
-Roman numerals	Arabic numerals
+Roman numerals |	Arabic numerals
 - M	1000
 - CM	900
 - D	500
